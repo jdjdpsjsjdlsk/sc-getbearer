@@ -1,0 +1,16 @@
+{
+  "name": "sc-getbearer",
+  "version": "1.0.0",
+  "description": "Get BearerToken from RockstarGames SocialClub website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "malte",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-schedule": "^2.1.0",
+    "puppeteer": "^19.4.0"
+  }
+}

@@ -4,6 +4,8 @@
 
 Get the BearerToken from RockstarGames Socialclub website
 
+This is only the base for your own project to get the bearertoken, i also have an functional API here https://github.com/jdjdpsjsjdlsk/rsg-socialclub-api
+
 Setup:
 ```
 git clone https://github.com/jdjdpsjsjdlsk/sc-getbearer.git

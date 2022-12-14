@@ -4,7 +4,18 @@
 
 Get the BearerToken from RockstarGames Socialclub website
 
-`npm install dotenv puppeteer node-schedule` for setup
+Setup:
+```
+git clone https://github.com/jdjdpsjsjdlsk/sc-getbearer.git
+cd sc-getbearer
+npm install dotenv puppeteer node-schedule
+```
+
+or if you already have it downloaded:
+
+```
+npm install dotenv puppeteer node-schedule
+```
 
 For the first start go into .env file and set SC_LOGIN to true.
 

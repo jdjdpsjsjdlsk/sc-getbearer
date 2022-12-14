@@ -1,4 +1,4 @@
-# sc-getbearer
+# Socialclub-GetBearer
 Get the BearerToken from RockstarGames Socialclub website
 
 For the first start go into .env file and set SC_LOGIN to true.

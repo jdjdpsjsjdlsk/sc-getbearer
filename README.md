@@ -1,4 +1,7 @@
 # Socialclub-GetBearer
+
+##This was build using nodejs v16.17.1
+
 Get the BearerToken from RockstarGames Socialclub website
 
 `npm install dotenv puppeteer node-schedule` for setup

@@ -10,7 +10,7 @@ Setup:
 ```
 git clone https://github.com/jdjdpsjsjdlsk/sc-getbearer.git
 cd sc-getbearer
-npm install dotenv puppeteer node-schedule
+npm install
 ```
 
 or if you already have it downloaded:

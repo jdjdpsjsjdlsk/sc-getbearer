@@ -13,12 +13,6 @@ cd sc-getbearer
 npm install
 ```
 
-or if you already have it downloaded:
-
-```
-npm install dotenv puppeteer node-schedule
-```
-
 For the first start go into .env file and set SC_LOGIN to true.
 
 Start the script with `npm run start` or `node .` and login to the browser window that opens and make sure to check Remember Me to stay logged in.
